@@ -9,7 +9,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/fbarez?tab=repositories&q=&type=&language=python)
 
-
+[![R](https://img.shields.io/badge/-R-fff?&logo=R)](https://github.com/fbarez?tab=repositories&q=&type=&language=R)
 <!--
 **fbarez/fbarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
