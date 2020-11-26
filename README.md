@@ -5,11 +5,11 @@
 
 [Home Page](https://fbarez.github.io/)🏠  | [Blog](https://fbarez.github.io/year-archive/)📚
 
-### Languages
-
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/fbarez?tab=repositories&q=&type=&language=python)
-
-[![R](https://img.shields.io/badge/-R-fff?&logo=R)](https://github.com/fbarez?tab=repositories&q=&type=&language=R)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+[![R](https://img.shields.io/badge/-Rstudio-fff?&logo=Rstudio)](https://github.com/fbarez?tab=repositories&q=&type=&language=R)
 <!--
 **fbarez/fbarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
