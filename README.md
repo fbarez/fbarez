@@ -4,6 +4,12 @@
 ### Hello world! I am Fazl 👋
 
 [Home Page](https://fbarez.github.io/)🏠  | [Blog](https://fbarez.github.io/year-archive/)📚
+
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/fbarez?tab=repositories&q=&type=&language=python)
+
+
 <!--
 **fbarez/fbarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
