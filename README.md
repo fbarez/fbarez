@@ -12,7 +12,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 [![git](https://img.shields.io/badge/-git-fff?&logo=git)](https://github.com/fbarez?tab=repositories&q=&type=&language=git)
-[![Github](https://img.shields.io/badge/-github-fff?&logo=Github)](https://github.com/fbarez?tab=repositories&q=&type=&language=github)
+[![GitHub](https://img.shields.io/badge/-github-fff?&logo=Github)](https://github.com/fbarez?tab=repositories&q=&type=&language=GitHub)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 [![R](https://img.shields.io/badge/-Rstudio-fff?&logo=Rstudio)](https://github.com/fbarez?tab=repositories&q=&type=&language=R)
