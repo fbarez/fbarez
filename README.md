@@ -6,7 +6,7 @@
 [Home Page](https://fbarez.github.io/)🏠  | [Blog](https://fbarez.github.io/year-archive/)📚
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/fbarez?tab=repositories&q=&type=&language=python)
-[![R](https://img.shields.io/badge/-jupyternotebook-fff?&logo=jupyternotebook)](https://github.com/fbarez?tab=repositories&q=&type=&language=Notebook)
+[![R](https://img.shields.io/badge/-jupyternotebook-fff?&logo=jupyternotebook)](https://github.com/fbarez?tab=repositories&q=&type=&language=JupyterNotebook)
 [![R](https://img.shields.io/badge/-vim-fff?&logo=vim)](https://github.com/fbarez?tab=repositories&q=&type=&language=Vim)
 [![R](https://img.shields.io/badge/-bash-fff?&logo=bash)](https://github.com/fbarez?tab=repositories&q=&type=&language=Bash)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
