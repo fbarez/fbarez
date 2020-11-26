@@ -6,13 +6,13 @@
 [Home Page](https://fbarez.github.io/)🏠  | [Blog](https://fbarez.github.io/year-archive/)📚
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/fbarez?tab=repositories&q=&type=&language=python)
-[![Jupyter Notebook](https://img.shields.io/badge/-jupyternotebook-fff?&logo=jupyternotebook)](https://github.com/fbarez?tab=repositories&q=&type=&language=JupyterNotebook)
+[![Notebook](https://img.shields.io/badge/-jupyternotebook-fff?&logo=notebook)](https://github.com/fbarez?tab=repositories&q=&type=&language=Notebook)
 [![Vim](https://img.shields.io/badge/-vim-fff?&logo=vim)](https://github.com/fbarez?tab=repositories&q=&type=&language=Vim)
-[![Bash](https://img.shields.io/badge/-bash-fff?&logo=bash)](https://github.com/fbarez?tab=repositories&q=&type=&language=Bash)
+[![Bash](https://img.shields.io/badge/-bash-fff?&logo=bash)](https://github.com/fbarez?tab=repositories&q=&type=&language=bash)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 [![git](https://img.shields.io/badge/-git-fff?&logo=git)](https://github.com/fbarez?tab=repositories&q=&type=&language=git)
-[![Github](https://img.shields.io/badge/-github-fff?&logo=github)](https://github.com/fbarez?tab=repositories&q=&type=&language=Github)
+[![Github](https://img.shields.io/badge/-github-fff?&logo=Github)](https://github.com/fbarez?tab=repositories&q=&type=&language=github)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 [![R](https://img.shields.io/badge/-Rstudio-fff?&logo=Rstudio)](https://github.com/fbarez?tab=repositories&q=&type=&language=R)
